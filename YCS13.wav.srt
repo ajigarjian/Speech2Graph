@@ -1,0 +1,60 @@
+1
+00:00:00,000 --> 00:00:04,480
+Hey, I'm Stanley. I'm a Stanford CS major. I did fun and engineering at Facebook.
+
+2
+00:00:04,480 --> 00:00:08,560
+Hey, I'm Andy. I'm also a Stanford CS major and I did platform engineering at Facebook.
+
+3
+00:00:08,560 --> 00:00:12,480
+I'm Evan. I was on the founding team of Vivo, the music video service.
+
+4
+00:00:12,480 --> 00:00:15,120
+And I'm Tony. I was a product editor at Square.
+
+5
+00:00:15,120 --> 00:00:19,920
+And the four of us came together about six months ago to work on software for small business owners.
+
+6
+00:00:19,920 --> 00:00:24,160
+But we didn't have a need at first, so we just went out and talked to all the small business owners we could find.
+
+7
+00:00:24,160 --> 00:00:30,720
+After over a hundred interviews, we came across a really interesting problem with small business restaurants in an area like this Palo Alto.
+
+8
+00:00:30,720 --> 00:00:36,320
+Yeah, so it turns out restaurants in Palo Alto don't deliver even though they really want to, but they can't afford it.
+
+9
+00:00:36,320 --> 00:00:42,400
+But their consumers are craving for it, but the places that the consumers love just can't deliver.
+
+10
+00:00:42,400 --> 00:00:48,240
+And we also found out about these delivery drivers who had a ton of spare time and they all wanted an extra cash during that downtime.
+
+11
+00:00:48,240 --> 00:01:00,400
+Right. And so that's when we built an initial product, Palo AltoDelivery.com. And how it worked is the customer goes to the website and places it online order that gets automatically sent to the restaurant.
+
+12
+00:01:00,400 --> 00:01:10,400
+And then we as a dispatchers with some pretty neat routing and batching algorithms where I would send the drivers efficiently to get the orders to the customers at a really fast time.
+
+13
+00:01:10,400 --> 00:01:17,280
+Yeah. And the four of us actually started off as delivery drivers and over time we hired more as we grew.
+
+14
+00:01:17,280 --> 00:01:24,800
+And in our first month of launch with not much marketing, we got over 150 paying customers in the Palo Alto area, which was really awesome.
+
+15
+00:01:24,800 --> 00:01:54,640
+And from that we generated over $10,000 in sales.
+

@@ -1,0 +1,15 @@
+Hey, I'm Stanley. I'm a Stanford CS major. I did fun and engineering at Facebook.
+Hey, I'm Andy. I'm also a Stanford CS major and I did platform engineering at Facebook.
+I'm Evan. I was on the founding team of Vivo, the music video service.
+And I'm Tony. I was a product editor at Square.
+And the four of us came together about six months ago to work on software for small business owners.
+But we didn't have a need at first, so we just went out and talked to all the small business owners we could find.
+After over a hundred interviews, we came across a really interesting problem with small business restaurants in an area like this Palo Alto.
+Yeah, so it turns out restaurants in Palo Alto don't deliver even though they really want to, but they can't afford it.
+But their consumers are craving for it, but the places that the consumers love just can't deliver.
+And we also found out about these delivery drivers who had a ton of spare time and they all wanted an extra cash during that downtime.
+Right. And so that's when we built an initial product, Palo AltoDelivery.com. And how it worked is the customer goes to the website and places it online order that gets automatically sent to the restaurant.
+And then we as a dispatchers with some pretty neat routing and batching algorithms where I would send the drivers efficiently to get the orders to the customers at a really fast time.
+Yeah. And the four of us actually started off as delivery drivers and over time we hired more as we grew.
+And in our first month of launch with not much marketing, we got over 150 paying customers in the Palo Alto area, which was really awesome.
+And from that we generated over $10,000 in sales.

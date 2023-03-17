@@ -1,0 +1,40 @@
+.container {
+    padding: 10px 0px;
+    display: flex;
+    gap: 10px;
+}
+
+.flexItem {
+    border: 0.5px solid gray;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+#userInputSection {
+    flex: 1 3 auto;
+}
+
+#outputSection {
+    flex: 3 1 auto;
+}
+
+.inputLabel {
+    display: block;
+    font-size: small;
+    color: gray;
+}
+
+.questionBox {
+    border: 0.5px solid gray;
+    width: 100%;
+}
+
+#inputSubmit {
+    background-color: blue;
+    border: none;
+    color: white;
+    padding: 5px 10px;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 2px;
+}

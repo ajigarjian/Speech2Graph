@@ -1,0 +1,40 @@
+{% extends "layout.html" %}
+{% load static %}
+
+{% block body %}
+
+<div id="pageBodyContainer" class="container">
+    <div id="userInputSection" class="flexItem" >
+        <form id="userInputForm">
+            <h6>Input</h6>
+            <div id="questionsInput">
+                <label class="inputLabel" for="question1">Questions</label>
+                <input id="question1" class="questionBox" type="text" required>
+                <label class="inputLabel" for="question2"></label>
+                <input id="question2" class="questionBox" type="text">
+                <label class="inputLabel" for="question3"></label>
+                <input id="question3" class="questionBox" type="text">
+            </div>
+            <br>
+            <div id="audioInput">
+                <label id="audioInputLabel" class="inputLabel" for="audio_input">Choose an audio file:</label>
+                <input id="audio_input" type="file" name="audio_input" accept="audio/wav" required>
+            </div>
+            <br>
+            <button id="inputSubmit" type="submit">Analyze</button>
+        </form>
+    </div>
+    <div id="outputSection" class="flexItem">
+        <h6>Results</h6>
+        <div id="transcription"></div>
+        <div id="score"></div>
+        <div id="label"></div>
+    </div>
+</div>
+
+
+{% endblock %}
+
+{% block script %}
+    <script src="{% static '/javascript.js' %}"></script>
+{% endblock %}
